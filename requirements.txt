@@ -57,7 +57,7 @@ markupsafe==2.1.1
     # via jinja2
 proto-plus==1.22.1
     # via google-cloud-trace
-protobuf==3.20.3
+protobuf==4.25.8
     # via
     #   -r requirements.in
     #   google-api-core
