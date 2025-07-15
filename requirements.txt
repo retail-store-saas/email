@@ -91,6 +91,6 @@ six==1.16.0
     #   grpcio
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==1.26.12
+urllib3==2.5.0
     # via requests
 werkzeug==0.15.0
